@@ -70,14 +70,12 @@
 
 /* хороший рейтинг — БЕЛЫЙ */
 .vote--good{
-    background:rgba(255,255,255,.92);
-    color:#111;
+    color:#fff;
 }
 
 /* отличный рейтинг */
 .vote--excellent{
-    background:linear-gradient(135deg,#7CFF9A,#32D27C);
-    color:#0b1f0f;
+    color:#7AE582;
 }
         `;
 
@@ -165,3 +163,4 @@
     }
 
 })();
+
